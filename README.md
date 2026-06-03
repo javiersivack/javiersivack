@@ -1,89 +1,99 @@
-# 👋 Hi, I'm Javier Sivack
+# Hi, I'm Javier Sivack 👋
 
-**Backend Developer · WordPress Plugin Builder · Automation Enthusiast**
+Backend Software Engineer focused on practical software, integrations, automation, and digital products.
 
-I’m a software engineer based in Uruguay, focused on building **practical, reliable and scalable solutions** — especially backend services in **Java/Micronaut/Spring Boot**, custom **WordPress plugins**, and **automation tools** that simplify work for businesses.
-
-I enjoy creating products that run with minimal supervision, generate real value, and “just work”.
+I enjoy building tools that solve real business problems with minimal complexity.
 
 ---
 
-## 🚀 What I Do
+## What I Work With
 
-### 🟩 Backend Development (Java)
-- REST microservices using **Micronaut** and **Spring Boot**
-- High-performance integrations with external APIs (banking/FinTech, payment processors, etc.)
-- Async processing, adapters, and clean modular architectures
-- Dockerized services for multi-environment deployments
-
-### 🟨 WordPress & Plugins
-- Custom WP plugins for automation, WooCommerce enhancements, and API-driven features  
-- Admin dashboards, shortcodes, REST endpoints  
-- Lightweight, clean PHP code following best practices
-
-### 🟦 Android Apps
-- Kotlin + Jetpack Compose  
-- Offline-first apps with Room / DataStore  
-- Voice-based interfaces (Vosk ASR)  
-- Background workers and local automation
-
-### 🧩 Automation & AI Tools
-- API-based workflows  
-- GPT-powered micro-apps  
-- Systems that reduce manual effort and increase reliability
+* Java / Spring Boot
+* REST APIs & Integrations
+* WordPress & WooCommerce Plugins
+* PHP
+* Automation Systems
+* AI-powered Tools
+* Docker
+* Google Cloud
+* Payment & Financial Integrations
 
 ---
 
-## 🛠️ Tech Stack
+## Current Focus
 
-**Languages:** Java · Kotlin · PHP · JavaScript · TypeScript  
-**Frameworks:** Spring Boot · Micronaut · Jetpack Compose · WordPress  
-**Tools:** Docker · Gradle · Maven · Git · Firebase · PostgreSQL  
-**Platforms:** Android · WordPress · SiteGround · Linux  
-**Cloud & APIs:** OpenAI API · Payment providers · Third-party integrations
-
----
-
-## 📌 Featured Projects
-
-### **WooCommerce Revenue Lifter (WIP)**
-A microservice + WordPress plugin designed for small stores:
-- Abandoned cart recovery  
-- Price drop alerts  
-- Store analytics  
-- GPT-based recommendations  
-
-### **Voice Expense App (Android)**
-Offline-first voice-driven expense tracker:
-- Voice recognition using Vosk  
-- Local DB + background workers  
-- Real-time reports  
-- Zero dependencies on external servers
-
-### **Automation & Microservices Experiments**
-Small, focused services exploring:
-- API orchestration  
-- Multi-adapter architectures  
-- Containerized deployments  
+* Building WooCommerce reliability tools
+* Creating lightweight WordPress plugins
+* Developing automation-first digital products
+* Growing a practical open-source portfolio
+* Backend consulting and integrations
 
 ---
 
-## 🎯 What I’m Currently Working On
-- Building **automated digital products** that generate recurring income  
-- Developing **modular microservices** for multi-client environments  
-- Improving my portfolio of **WordPress plugins**  
-- Deepening my knowledge in **electronics and audio synthesis** (personal learning journey)
+## Featured Projects
+
+### Store Mail Guardian
+
+WooCommerce email diagnostics plugin for WordPress.
+
+Detects:
+
+* SMTP configuration issues
+* Invalid sender email addresses
+* WooCommerce email problems
+* Common transactional email failures
+
+GitHub:
+https://github.com/javiersivack/store-mail-guardian
 
 ---
 
-## 📫 Contact
-If you want to collaborate or discuss ideas:
+### Store Health Assistant
 
-- **Website:** https://sealionstudios.com  
-- **LinkedIn:** https://www.linkedin.com/in/javier-sivack  
-- **Email:** (ask me)
+Lightweight WooCommerce diagnostics and store health monitoring plugin.
+
+Focused on helping store owners quickly identify common operational problems.
+
+GitHub:
+https://github.com/javiersivack/store-health-assistant
 
 ---
 
-### ⭐ If you find something useful, feel free to star a repo or reach out.  
-Always happy to connect with people building cool things.
+## Background
+
+I have experience building backend systems and integrations for financial and transactional environments, including:
+
+* Payment systems
+* Banking integrations
+* External API adapters
+* High-availability backend services
+* Diagnostic and monitoring tools
+
+I also enjoy exploring:
+
+* automation,
+* AI-assisted development,
+* product development,
+* electronics,
+* and practical software tools.
+
+---
+
+## Philosophy
+
+I prefer:
+
+* simple solutions,
+* useful products,
+* fast iteration,
+* and practical engineering over unnecessary complexity.
+
+---
+
+## Connect
+
+* LinkedIn:
+  https://www.linkedin.com/in/javier-sivack/
+
+* GitHub:
+  https://github.com/javiersivack
